@@ -1,0 +1,218 @@
+[
+    {
+        "fecha": "2026-04-08 19:07:13",
+        "nombre": "a",
+        "tiempo": 4.962,
+        "errores": 0,
+        "precision": 100.0,
+        "temblor": 1.41,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-08 19:12:53",
+        "nombre": "a",
+        "tiempo": 4.354,
+        "errores": 0,
+        "precision": 100.0,
+        "temblor": 1.38,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-08 20:53:40",
+        "nombre": "a",
+        "tiempo": 4.826,
+        "errores": 0,
+        "precision": 100.0,
+        "temblor": 2.49,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-08 20:53:56",
+        "nombre": "a",
+        "tiempo": 12.885,
+        "errores": 49,
+        "precision": 69.62,
+        "temblor": 3.03,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-08 20:54:11",
+        "nombre": "a",
+        "tiempo": 3.933,
+        "errores": 20,
+        "precision": 62.04,
+        "temblor": 1.53,
+        "rigidez": 1.39
+    },
+    {
+        "fecha": "2026-04-08 20:54:21",
+        "nombre": "a",
+        "tiempo": 7.03,
+        "errores": 21,
+        "precision": 52.05,
+        "temblor": 0.43,
+        "rigidez": 0.78
+    },
+    {
+        "fecha": "2026-04-08 20:54:32",
+        "nombre": "a",
+        "tiempo": 5.412,
+        "errores": 15,
+        "precision": 50.85,
+        "temblor": 0.55,
+        "rigidez": 1.01
+    },
+    {
+        "fecha": "2026-04-08 20:54:49",
+        "nombre": "a",
+        "tiempo": 5.896,
+        "errores": 5,
+        "precision": 88.7,
+        "temblor": 1.36,
+        "rigidez": 0.92
+    },
+    {
+        "fecha": "2026-04-08 20:55:00",
+        "nombre": "a",
+        "tiempo": 5.765,
+        "errores": 3,
+        "precision": 88.93,
+        "temblor": 1.39,
+        "rigidez": 0.95
+    },
+    {
+        "fecha": "2026-04-08 20:55:19",
+        "nombre": "a",
+        "tiempo": 16.108,
+        "errores": 48,
+        "precision": 79.71,
+        "temblor": 3.1,
+        "rigidez": 0.34
+    },
+    {
+        "fecha": "2026-04-08 20:55:32",
+        "nombre": "a",
+        "tiempo": 5.846,
+        "errores": 27,
+        "precision": 55.47,
+        "temblor": 4.28,
+        "rigidez": 1.68
+    },
+    {
+        "fecha": "2026-04-08 20:55:45",
+        "nombre": "a",
+        "tiempo": 9.557,
+        "errores": 16,
+        "precision": 44.21,
+        "temblor": 1.15,
+        "rigidez": 1.03
+    },
+    {
+        "fecha": "2026-04-09 22:32:56",
+        "nombre": "a",
+        "tiempo": 7.422,
+        "errores": 3,
+        "precision": 93.87,
+        "temblor": 1.75,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-09 22:33:15",
+        "nombre": "a",
+        "tiempo": 6.882,
+        "errores": 1,
+        "precision": 94.83,
+        "temblor": 0.87,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-09 22:33:38",
+        "nombre": "a",
+        "tiempo": 10.083,
+        "errores": 34,
+        "precision": 64.44,
+        "temblor": 3.37,
+        "rigidez": 1.46
+    },
+    {
+        "fecha": "2026-04-09 22:34:02",
+        "nombre": "a",
+        "tiempo": 11.174,
+        "errores": 12,
+        "precision": 88.09,
+        "temblor": 2.86,
+        "rigidez": 1.31
+    },
+    {
+        "fecha": "2026-04-09 22:39:42",
+        "nombre": "a",
+        "tiempo": 10.708,
+        "errores": 6,
+        "precision": 70.83,
+        "temblor": 1.4,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-09 22:39:52",
+        "nombre": "a",
+        "tiempo": 6.759,
+        "errores": 30,
+        "precision": 62.54,
+        "temblor": 2.81,
+        "rigidez": 0.22
+    },
+    {
+        "fecha": "2026-04-09 22:40:02",
+        "nombre": "a",
+        "tiempo": 5.455,
+        "errores": 0,
+        "precision": 100.0,
+        "temblor": 1.28,
+        "rigidez": 0.27
+    },
+    {
+        "fecha": "2026-04-15 13:24:46",
+        "nombre": "a",
+        "tiempo": 8.599,
+        "errores": 11,
+        "precision": 84.38,
+        "temblor": 0.7,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-15 13:24:53",
+        "nombre": "a",
+        "tiempo": 4.528,
+        "errores": 2,
+        "precision": 95.65,
+        "temblor": 1.33,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-15 14:06:48",
+        "nombre": "a",
+        "tiempo": 4.385,
+        "errores": 2,
+        "precision": 96.26,
+        "temblor": 2.28,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-15 14:07:01",
+        "nombre": "a",
+        "tiempo": 5.035,
+        "errores": 7,
+        "precision": 89.43,
+        "temblor": 1.39,
+        "rigidez": 0.0
+    },
+    {
+        "fecha": "2026-04-15 14:07:10",
+        "nombre": "a",
+        "tiempo": 6.518,
+        "errores": 18,
+        "precision": 78.17,
+        "temblor": 3.68,
+        "rigidez": 0.0
+    }
+]

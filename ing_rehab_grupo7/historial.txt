@@ -1,0 +1,432 @@
+Fecha: 2026-04-08 17:00:06
+Nombre: a
+Tiempo: 3.105 s
+Errores: 5
+Precision: 76.36 %
+Temblor: 0.97 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 17:13:20
+Nombre: a
+Tiempo: 4.193 s
+Errores: 1
+Precision: 97.64 %
+Temblor: 0.95 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 17:29:14
+Nombre: a
+Tiempo: 4.774 s
+Errores: 0
+Precision: 100.0 %
+Temblor: 2.3 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 18:01:04
+Nombre: a
+Tiempo: 4.632 s
+Errores: 0
+Precision: 100.0 %
+Temblor: 0.43 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 18:01:25
+Nombre: a
+Tiempo: 11.87 s
+Errores: 11
+Precision: 94.63 %
+Temblor: 4.72 Hz
+Rigidez: 0.2 rad/s
+------------------------------
+Fecha: 2026-04-08 18:01:39
+Nombre: a
+Tiempo: 8.056 s
+Errores: 19
+Precision: 35.82 %
+Temblor: 0.0 Hz
+Rigidez: 0.47 rad/s
+------------------------------
+Fecha: 2026-04-08 19:07:13
+Nombre: a
+Tiempo: 4.962 s
+Errores: 0
+Precision: 100.0 %
+Temblor: 1.41 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 19:12:53
+Nombre: a
+Tiempo: 4.354 s
+Errores: 0
+Precision: 100.0 %
+Temblor: 1.38 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:37:32
+Nombre: h
+Tiempo: 3.339 s
+Errores: 10
+Precision: 72.18 %
+Temblor: 1.8 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:41:18
+Nombre: h
+Tiempo: 3.583 s
+Errores: 1
+Precision: 99.55 %
+Temblor: 0.28 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:43:21
+Nombre: h
+Tiempo: 4.659 s
+Errores: 3
+Precision: 88.45 %
+Temblor: 1.93 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:43:29
+Nombre: h
+Tiempo: 2.962 s
+Errores: 21
+Precision: 46.05 %
+Temblor: 2.7 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:43:40
+Nombre: h
+Tiempo: 4.592 s
+Errores: 32
+Precision: 71.58 %
+Temblor: 3.27 Hz
+Rigidez: 0.25 rad/s
+------------------------------
+Fecha: 2026-04-08 20:44:24
+Nombre: h
+Tiempo: 2.346 s
+Errores: 6
+Precision: 73.36 %
+Temblor: 2.13 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:44:28
+Nombre: h
+Tiempo: 2.295 s
+Errores: 10
+Precision: 80.83 %
+Temblor: 0.87 Hz
+Rigidez: 1.02 rad/s
+------------------------------
+Fecha: 2026-04-08 20:44:59
+Nombre: h
+Tiempo: 3.322 s
+Errores: 13
+Precision: 76.13 %
+Temblor: 0.6 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:45:03
+Nombre: h
+Tiempo: 2.415 s
+Errores: 8
+Precision: 76.98 %
+Temblor: 2.07 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:45:10
+Nombre: h
+Tiempo: 3.41 s
+Errores: 22
+Precision: 56.8 %
+Temblor: 2.05 Hz
+Rigidez: 0.39 rad/s
+------------------------------
+Fecha: 2026-04-08 20:45:24
+Nombre: h
+Tiempo: 2.529 s
+Errores: 11
+Precision: 70.38 %
+Temblor: 1.58 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:45:30
+Nombre: h
+Tiempo: 4.269 s
+Errores: 17
+Precision: 75.47 %
+Temblor: 0.7 Hz
+Rigidez: 0.43 rad/s
+------------------------------
+Fecha: 2026-04-08 20:45:42
+Nombre: h
+Tiempo: 4.198 s
+Errores: 24
+Precision: 66.58 %
+Temblor: 2.14 Hz
+Rigidez: 0.43 rad/s
+------------------------------
+Fecha: 2026-04-08 20:46:36
+Nombre: h
+Tiempo: 2.65 s
+Errores: 12
+Precision: 70.45 %
+Temblor: 1.51 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:47:14
+Nombre: h
+Tiempo: 2.823 s
+Errores: 5
+Precision: 87.42 %
+Temblor: 0.71 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:47:19
+Nombre: h
+Tiempo: 2.923 s
+Errores: 19
+Precision: 64.66 %
+Temblor: 1.03 Hz
+Rigidez: 0.51 rad/s
+------------------------------
+Fecha: 2026-04-08 20:47:29
+Nombre: h
+Tiempo: 4.36 s
+Errores: 0
+Precision: 100.0 %
+Temblor: 1.15 Hz
+Rigidez: 0.34 rad/s
+------------------------------
+Fecha: 2026-04-08 20:53:40
+Nombre: a
+Tiempo: 4.826 s
+Errores: 0
+Precision: 100.0 %
+Temblor: 2.49 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:53:56
+Nombre: a
+Tiempo: 12.885 s
+Errores: 49
+Precision: 69.62 %
+Temblor: 3.03 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-08 20:54:11
+Nombre: a
+Tiempo: 3.933 s
+Errores: 20
+Precision: 62.04 %
+Temblor: 1.53 Hz
+Rigidez: 1.39 rad/s
+------------------------------
+Fecha: 2026-04-08 20:54:21
+Nombre: a
+Tiempo: 7.03 s
+Errores: 21
+Precision: 52.05 %
+Temblor: 0.43 Hz
+Rigidez: 0.78 rad/s
+------------------------------
+Fecha: 2026-04-08 20:54:32
+Nombre: a
+Tiempo: 5.412 s
+Errores: 15
+Precision: 50.85 %
+Temblor: 0.55 Hz
+Rigidez: 1.01 rad/s
+------------------------------
+Fecha: 2026-04-08 20:54:49
+Nombre: a
+Tiempo: 5.896 s
+Errores: 5
+Precision: 88.7 %
+Temblor: 1.36 Hz
+Rigidez: 0.92 rad/s
+------------------------------
+Fecha: 2026-04-08 20:55:00
+Nombre: a
+Tiempo: 5.765 s
+Errores: 3
+Precision: 88.93 %
+Temblor: 1.39 Hz
+Rigidez: 0.95 rad/s
+------------------------------
+Fecha: 2026-04-08 20:55:19
+Nombre: a
+Tiempo: 16.108 s
+Errores: 48
+Precision: 79.71 %
+Temblor: 3.1 Hz
+Rigidez: 0.34 rad/s
+------------------------------
+Fecha: 2026-04-08 20:55:32
+Nombre: a
+Tiempo: 5.846 s
+Errores: 27
+Precision: 55.47 %
+Temblor: 4.28 Hz
+Rigidez: 1.68 rad/s
+------------------------------
+Fecha: 2026-04-08 20:55:45
+Nombre: a
+Tiempo: 9.557 s
+Errores: 16
+Precision: 44.21 %
+Temblor: 1.15 Hz
+Rigidez: 1.03 rad/s
+------------------------------
+Fecha: 2026-04-09 22:32:56
+Nombre: a
+Tiempo: 7.422 s
+Errores: 3
+Precision: 93.87 %
+Temblor: 1.75 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-09 22:33:15
+Nombre: a
+Tiempo: 6.882 s
+Errores: 1
+Precision: 94.83 %
+Temblor: 0.87 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-09 22:33:38
+Nombre: a
+Tiempo: 10.083 s
+Errores: 34
+Precision: 64.44 %
+Temblor: 3.37 Hz
+Rigidez: 1.46 rad/s
+------------------------------
+Fecha: 2026-04-09 22:34:02
+Nombre: a
+Tiempo: 11.174 s
+Errores: 12
+Precision: 88.09 %
+Temblor: 2.86 Hz
+Rigidez: 1.31 rad/s
+------------------------------
+Fecha: 2026-04-09 22:39:42
+Nombre: a
+Tiempo: 10.708 s
+Errores: 6
+Precision: 70.83 %
+Temblor: 1.4 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-09 22:39:52
+Nombre: a
+Tiempo: 6.759 s
+Errores: 30
+Precision: 62.54 %
+Temblor: 2.81 Hz
+Rigidez: 0.22 rad/s
+------------------------------
+Fecha: 2026-04-09 22:40:02
+Nombre: a
+Tiempo: 5.455 s
+Errores: 0
+Precision: 100.0 %
+Temblor: 1.28 Hz
+Rigidez: 0.27 rad/s
+------------------------------
+Fecha: 2026-04-15 13:02:58
+Nombre: roberto
+Tiempo: 39.583 s
+Errores: 6
+Precision: 83.18 %
+Temblor: 1.67 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:06:23
+Nombre: roberto
+Tiempo: 7.122 s
+Errores: 1
+Precision: 92.68 %
+Temblor: 1.4 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:06:37
+Nombre: roberto
+Tiempo: 7.097 s
+Errores: 20
+Precision: 80.87 %
+Temblor: 1.69 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:07:26
+Nombre: roberto
+Tiempo: 3.657 s
+Errores: 2
+Precision: 95.6 %
+Temblor: 0.55 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:07:33
+Nombre: roberto
+Tiempo: 4.705 s
+Errores: 5
+Precision: 87.65 %
+Temblor: 0.85 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:07:39
+Nombre: roberto
+Tiempo: 3.822 s
+Errores: 3
+Precision: 95.32 %
+Temblor: 2.09 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:07:52
+Nombre: roberto
+Tiempo: 4.163 s
+Errores: 2
+Precision: 92.58 %
+Temblor: 0.96 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:24:46
+Nombre: a
+Tiempo: 8.599 s
+Errores: 11
+Precision: 84.38 %
+Temblor: 0.7 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 13:24:53
+Nombre: a
+Tiempo: 4.528 s
+Errores: 2
+Precision: 95.65 %
+Temblor: 1.33 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 14:06:48
+Nombre: a
+Tiempo: 4.385 s
+Errores: 2
+Precision: 96.26 %
+Temblor: 2.28 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 14:07:01
+Nombre: a
+Tiempo: 5.035 s
+Errores: 7
+Precision: 89.43 %
+Temblor: 1.39 Hz
+Rigidez: 0.0 rad/s
+------------------------------
+Fecha: 2026-04-15 14:07:10
+Nombre: a
+Tiempo: 6.518 s
+Errores: 18
+Precision: 78.17 %
+Temblor: 3.68 Hz
+Rigidez: 0.0 rad/s
+------------------------------
