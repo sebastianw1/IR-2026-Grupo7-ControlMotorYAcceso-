@@ -1,0 +1,25 @@
+#Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Archivos generados por el proyecto
+results/
+resultados_pacientes/*.json
+historial.txt
+
+#Archivos de IDE y editores
+.vscode/
+.idea/
+
+#Archivos de sistema operativo
+.DS_Store
+Thumbs.db
