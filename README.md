@@ -18,6 +18,5 @@ Qué mide: tiempo de reacción por trial, trayectoria completa del cursor (coord
 Instrucciones para instalar dependencias y luego correr el programa principal:
 ```
 pip install -r requirements.txt
-cd app
-python main.py
+python ing_rehab_grupo7/main.py
 ```
