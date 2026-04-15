@@ -15,7 +15,7 @@ GANANCIA ADAPTATIVA: Este módulo evalúa y adapta en tiempo real la sensibilida
 La ganancia se ajusta dinámicamente: si el paciente tiene un ROM muy chico, el cursor se amplifica (gain alto) para que pequeños movimientos lleguen lejos. A medida que encadena aciertos, la ganancia baja progresivamente para mantener un desafío motor adecuado. Si falla por timeout, la ganancia sube para facilitarle la tarea.
 Qué mide: tiempo de reacción por trial, trayectoria completa del cursor (coordenadas reales y virtuales en el tiempo), cantidad de clicks errados, ganancia usada en cada trial, eficiencia del movimiento (distancia directa al target / distancia total recorrida), ROM calibrado, y comparación de gain inicial vs final como indicador de mejora intrasesión.
 
-Instrucciones para instalar dependencias y luego correr el programa principal:
+Instrucciones para instalar dependencias y luego correr el programa principal desde la raíz del repositorio:
 ```
 pip install -r requirements.txt
 python ing_rehab_grupo7/main.py
