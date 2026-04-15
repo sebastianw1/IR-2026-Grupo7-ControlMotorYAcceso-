@@ -13,6 +13,6 @@ La ganancia se ajusta dinámicamente: si el paciente tiene un ROM muy chico, el 
 Qué mide: tiempo de reacción por trial, trayectoria completa del cursor (coordenadas reales y virtuales en el tiempo), cantidad de clicks errados, ganancia usada en cada trial, eficiencia del movimiento (distancia directa al target / distancia total recorrida), ROM calibrado, y comparación de gain inicial vs final como indicador de mejora intrasesión.
 
 Instrucciones de pip install:
-```
+```bash
 pip install -r requirements.txt
 ```
