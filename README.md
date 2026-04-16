@@ -1,6 +1,4 @@
-# IR-2026-Grupo-7-ControlMotorYAcceso
-Integrado por: Arana, Agustina - Aringoli, Francisco - Avila Carrizo, Josefina - Siri, Pedro - Waisman Feldman, Sebastián
-
+# IR-2026-Grupo-7-ControlMotorAcceso
 OpenRehab ACV es una plataforma de tests de control motor y hemiparesia destinado a pacientes de rehabilitación que sufrieron un ACV.
 
 En primera instancia, se abrirá la ventana del inicio de sesión. El paciente deberá ingresar sus credenciales y en caso de que no se haya creado una cuenta, tiene la opción de registrar un nuevo usuario. Cuenta con varias alertas como elegir un nombre de usuario ya tomado o una contraseña menor a 8 caracteres, entre otras. Además, se da la opción de ocultar la contraseña. Luego, ingresa al menú.
